@@ -10,7 +10,8 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.94",
 	"isGameTourist": false,
-	"appid": "/** this is your appid **/",
+	"appid": "wxf8868920b310ce17",
+	"projectname": "little-shelf-weapp",
 	"condition": {
 		"search": {
 			"current": -1,
